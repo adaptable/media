@@ -1,5 +1,7 @@
 # Adaptable.io Media Kit
 
+[Download Media Kit](https://github.com/adaptable/media/archive/refs/heads/main.zip) <small>(Zip file)</small>
+
 ## Logos
 
 | Logo | Logomark |
